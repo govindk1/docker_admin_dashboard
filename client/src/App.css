@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+}
+
+.collegelist{
+    flex:4;
+}
+
+.sidebar{
+    flex: 1;
+}
+
